@@ -1,5 +1,5 @@
 
-# Vaultigo
+# Overloadr
 
 Overloadr is a powerful web testing utility designed to simulate heavy traffic loads and stress-test websites to evaluate their performance and robustness under pressure. With a user-friendly interface, Overloadr gives developers and system administrators full control over the parameters of their tests, allowing for detailed and customizable stress scenarios.
 
