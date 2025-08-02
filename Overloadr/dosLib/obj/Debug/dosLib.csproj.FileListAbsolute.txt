@@ -1,0 +1,6 @@
+C:\Users\notyo\source\repos\Overloadr\dosLib\bin\Debug\dosLib.dll
+C:\Users\notyo\source\repos\Overloadr\dosLib\bin\Debug\dosLib.pdb
+C:\Users\notyo\source\repos\Overloadr\dosLib\obj\Debug\dosLib.csproj.AssemblyReference.cache
+C:\Users\notyo\source\repos\Overloadr\dosLib\obj\Debug\dosLib.csproj.CoreCompileInputs.cache
+C:\Users\notyo\source\repos\Overloadr\dosLib\obj\Debug\dosLib.dll
+C:\Users\notyo\source\repos\Overloadr\dosLib\obj\Debug\dosLib.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloadr", "Overloadr\Overloadr.csproj", "{07BFEF3D-D838-4773-A8BB-0ABD962B686A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dosLib", "dosLib\dosLib.csproj", "{683180E6-D122-40AF-9208-B8AE66E2510A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07BFEF3D-D838-4773-A8BB-0ABD962B686A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BFEF3D-D838-4773-A8BB-0ABD962B686A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BFEF3D-D838-4773-A8BB-0ABD962B686A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BFEF3D-D838-4773-A8BB-0ABD962B686A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683180E6-D122-40AF-9208-B8AE66E2510A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683180E6-D122-40AF-9208-B8AE66E2510A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683180E6-D122-40AF-9208-B8AE66E2510A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683180E6-D122-40AF-9208-B8AE66E2510A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22BC41DA-EBCA-4CFC-AE79-2BF48A65E56D}
+	EndGlobalSection
+EndGlobal
